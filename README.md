@@ -2,7 +2,7 @@
 My first repository
 ### The Vow
 
-![alt text](https://en.wikipedia.org/wiki/File:The_Vow_Poster.jpg)
+![alt text]([https://en.wikipedia.org/wiki/File:The_Vow_Poster.jpg](https://en.wikipedia.org/wiki/File:The_Vow_Poster.jpg))
 
 **Genre**
 -Romance
